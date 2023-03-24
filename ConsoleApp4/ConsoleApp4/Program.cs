@@ -13,6 +13,36 @@
             char lastChar = input[input.Length - 1];
             return   lastChar +  input + lastChar  ;
         }
+
+        public static string stringWithoutOk(string input)
+        {
+            
+            string ans = "";
+           
+            for (int i = 0; i<input.Length-1; i++)
+            {
+                if (input[i] == 'o' && input[i+1] == 'k' )
+                {
+                    i++;
+                    continue;
+
+                }
+                ans += input[i];
+
+            }
+            char lastChar = input[input.Length - 1];
+
+            //Check if the last two letters are "ok"
+            if (input[input.Length - 2] == 'o' && lastChar  == 'k')
+            {
+                return ans;
+            }
+
+
+            return ans + lastChar;
+            
+            //return input.Replace("ok", "");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a string to swap the first and last letters");
@@ -20,6 +50,7 @@
             
             Console.WriteLine(Program.swapFirstAndLastCharacters(input));
             Console.WriteLine(Program.addlastCharToFirstAndEnd(input));
+            Console.WriteLine(Program.stringWithoutOk(input));
         }
     }
 }
