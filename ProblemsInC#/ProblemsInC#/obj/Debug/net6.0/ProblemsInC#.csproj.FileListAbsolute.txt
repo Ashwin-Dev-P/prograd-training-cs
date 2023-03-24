@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\bin\Debug\net6.0\ProblemsInC#.exe
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\bin\Debug\net6.0\ProblemsInC#.deps.json
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\bin\Debug\net6.0\ProblemsInC#.runtimeconfig.json
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\bin\Debug\net6.0\ProblemsInC#.dll
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\bin\Debug\net6.0\ProblemsInC#.pdb
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net6.0\ProblemsInC#.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net6.0\ProblemsInC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net6.0\ProblemsInC#.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net6.0\ProblemsInC#.AssemblyInfo.cs
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net6.0\ProblemsInC#.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net6.0\ProblemsInC#.dll
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net6.0\refint\ProblemsInC#.dll
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net6.0\ProblemsInC#.pdb
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net6.0\ProblemsInC#.genruntimeconfig.cache
+C:\Users\HP\source\repos\ProblemsInC#\ProblemsInC#\obj\Debug\net6.0\ref\ProblemsInC#.dll
