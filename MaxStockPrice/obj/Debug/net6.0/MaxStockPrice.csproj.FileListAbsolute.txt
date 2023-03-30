@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\MaxStockPrice\bin\Debug\net6.0\MaxStockPrice.exe
+C:\Users\HP\source\repos\MaxStockPrice\bin\Debug\net6.0\MaxStockPrice.deps.json
+C:\Users\HP\source\repos\MaxStockPrice\bin\Debug\net6.0\MaxStockPrice.runtimeconfig.json
+C:\Users\HP\source\repos\MaxStockPrice\bin\Debug\net6.0\MaxStockPrice.dll
+C:\Users\HP\source\repos\MaxStockPrice\bin\Debug\net6.0\MaxStockPrice.pdb
+C:\Users\HP\source\repos\MaxStockPrice\obj\Debug\net6.0\MaxStockPrice.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MaxStockPrice\obj\Debug\net6.0\MaxStockPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MaxStockPrice\obj\Debug\net6.0\MaxStockPrice.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MaxStockPrice\obj\Debug\net6.0\MaxStockPrice.AssemblyInfo.cs
+C:\Users\HP\source\repos\MaxStockPrice\obj\Debug\net6.0\MaxStockPrice.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MaxStockPrice\obj\Debug\net6.0\MaxStockPrice.dll
+C:\Users\HP\source\repos\MaxStockPrice\obj\Debug\net6.0\refint\MaxStockPrice.dll
+C:\Users\HP\source\repos\MaxStockPrice\obj\Debug\net6.0\MaxStockPrice.pdb
+C:\Users\HP\source\repos\MaxStockPrice\obj\Debug\net6.0\MaxStockPrice.genruntimeconfig.cache
+C:\Users\HP\source\repos\MaxStockPrice\obj\Debug\net6.0\ref\MaxStockPrice.dll

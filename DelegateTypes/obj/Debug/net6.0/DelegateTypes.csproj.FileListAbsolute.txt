@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\DelegateTypes\bin\Debug\net6.0\DelegateTypes.exe
+C:\Users\HP\source\repos\DelegateTypes\bin\Debug\net6.0\DelegateTypes.deps.json
+C:\Users\HP\source\repos\DelegateTypes\bin\Debug\net6.0\DelegateTypes.runtimeconfig.json
+C:\Users\HP\source\repos\DelegateTypes\bin\Debug\net6.0\DelegateTypes.dll
+C:\Users\HP\source\repos\DelegateTypes\bin\Debug\net6.0\DelegateTypes.pdb
+C:\Users\HP\source\repos\DelegateTypes\obj\Debug\net6.0\DelegateTypes.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DelegateTypes\obj\Debug\net6.0\DelegateTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DelegateTypes\obj\Debug\net6.0\DelegateTypes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DelegateTypes\obj\Debug\net6.0\DelegateTypes.AssemblyInfo.cs
+C:\Users\HP\source\repos\DelegateTypes\obj\Debug\net6.0\DelegateTypes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DelegateTypes\obj\Debug\net6.0\DelegateTypes.dll
+C:\Users\HP\source\repos\DelegateTypes\obj\Debug\net6.0\refint\DelegateTypes.dll
+C:\Users\HP\source\repos\DelegateTypes\obj\Debug\net6.0\DelegateTypes.pdb
+C:\Users\HP\source\repos\DelegateTypes\obj\Debug\net6.0\DelegateTypes.genruntimeconfig.cache
+C:\Users\HP\source\repos\DelegateTypes\obj\Debug\net6.0\ref\DelegateTypes.dll

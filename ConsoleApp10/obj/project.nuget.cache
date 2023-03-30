@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FqwY0OwghAhudH8icG7vwfjem4bLYWhZQUSKyKsHxZAlahlYn6DeoJVebgIjeUotQAxTXFiEKDltzsB1XM/lFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ConsoleApp10\\ConsoleApp10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

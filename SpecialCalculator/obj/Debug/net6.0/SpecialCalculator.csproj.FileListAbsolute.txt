@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\SpecialCalculator\bin\Debug\net6.0\SpecialCalculator.exe
+C:\Users\HP\source\repos\SpecialCalculator\bin\Debug\net6.0\SpecialCalculator.deps.json
+C:\Users\HP\source\repos\SpecialCalculator\bin\Debug\net6.0\SpecialCalculator.runtimeconfig.json
+C:\Users\HP\source\repos\SpecialCalculator\bin\Debug\net6.0\SpecialCalculator.dll
+C:\Users\HP\source\repos\SpecialCalculator\bin\Debug\net6.0\SpecialCalculator.pdb
+C:\Users\HP\source\repos\SpecialCalculator\obj\Debug\net6.0\SpecialCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SpecialCalculator\obj\Debug\net6.0\SpecialCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SpecialCalculator\obj\Debug\net6.0\SpecialCalculator.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SpecialCalculator\obj\Debug\net6.0\SpecialCalculator.AssemblyInfo.cs
+C:\Users\HP\source\repos\SpecialCalculator\obj\Debug\net6.0\SpecialCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SpecialCalculator\obj\Debug\net6.0\SpecialCalculator.dll
+C:\Users\HP\source\repos\SpecialCalculator\obj\Debug\net6.0\refint\SpecialCalculator.dll
+C:\Users\HP\source\repos\SpecialCalculator\obj\Debug\net6.0\SpecialCalculator.pdb
+C:\Users\HP\source\repos\SpecialCalculator\obj\Debug\net6.0\SpecialCalculator.genruntimeconfig.cache
+C:\Users\HP\source\repos\SpecialCalculator\obj\Debug\net6.0\ref\SpecialCalculator.dll
