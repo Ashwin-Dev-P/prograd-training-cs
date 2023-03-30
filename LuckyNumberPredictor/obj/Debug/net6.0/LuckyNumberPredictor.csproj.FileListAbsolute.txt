@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\LuckyNumberPredictor\bin\Debug\net6.0\LuckyNumberPredictor.exe
+C:\Users\HP\source\repos\LuckyNumberPredictor\bin\Debug\net6.0\LuckyNumberPredictor.deps.json
+C:\Users\HP\source\repos\LuckyNumberPredictor\bin\Debug\net6.0\LuckyNumberPredictor.runtimeconfig.json
+C:\Users\HP\source\repos\LuckyNumberPredictor\bin\Debug\net6.0\LuckyNumberPredictor.dll
+C:\Users\HP\source\repos\LuckyNumberPredictor\bin\Debug\net6.0\LuckyNumberPredictor.pdb
+C:\Users\HP\source\repos\LuckyNumberPredictor\obj\Debug\net6.0\LuckyNumberPredictor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LuckyNumberPredictor\obj\Debug\net6.0\LuckyNumberPredictor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LuckyNumberPredictor\obj\Debug\net6.0\LuckyNumberPredictor.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LuckyNumberPredictor\obj\Debug\net6.0\LuckyNumberPredictor.AssemblyInfo.cs
+C:\Users\HP\source\repos\LuckyNumberPredictor\obj\Debug\net6.0\LuckyNumberPredictor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LuckyNumberPredictor\obj\Debug\net6.0\LuckyNumberPredictor.dll
+C:\Users\HP\source\repos\LuckyNumberPredictor\obj\Debug\net6.0\refint\LuckyNumberPredictor.dll
+C:\Users\HP\source\repos\LuckyNumberPredictor\obj\Debug\net6.0\LuckyNumberPredictor.pdb
+C:\Users\HP\source\repos\LuckyNumberPredictor\obj\Debug\net6.0\LuckyNumberPredictor.genruntimeconfig.cache
+C:\Users\HP\source\repos\LuckyNumberPredictor\obj\Debug\net6.0\ref\LuckyNumberPredictor.dll
