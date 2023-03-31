@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\OverTimePay\bin\Debug\net6.0\OverTimePay.exe
+C:\Users\HP\source\repos\OverTimePay\bin\Debug\net6.0\OverTimePay.deps.json
+C:\Users\HP\source\repos\OverTimePay\bin\Debug\net6.0\OverTimePay.runtimeconfig.json
+C:\Users\HP\source\repos\OverTimePay\bin\Debug\net6.0\OverTimePay.dll
+C:\Users\HP\source\repos\OverTimePay\bin\Debug\net6.0\OverTimePay.pdb
+C:\Users\HP\source\repos\OverTimePay\obj\Debug\net6.0\OverTimePay.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OverTimePay\obj\Debug\net6.0\OverTimePay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OverTimePay\obj\Debug\net6.0\OverTimePay.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OverTimePay\obj\Debug\net6.0\OverTimePay.AssemblyInfo.cs
+C:\Users\HP\source\repos\OverTimePay\obj\Debug\net6.0\OverTimePay.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OverTimePay\obj\Debug\net6.0\OverTimePay.dll
+C:\Users\HP\source\repos\OverTimePay\obj\Debug\net6.0\refint\OverTimePay.dll
+C:\Users\HP\source\repos\OverTimePay\obj\Debug\net6.0\OverTimePay.pdb
+C:\Users\HP\source\repos\OverTimePay\obj\Debug\net6.0\OverTimePay.genruntimeconfig.cache
+C:\Users\HP\source\repos\OverTimePay\obj\Debug\net6.0\ref\OverTimePay.dll

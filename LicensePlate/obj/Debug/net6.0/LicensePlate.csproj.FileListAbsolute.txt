@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\LicensePlate\bin\Debug\net6.0\LicensePlate.exe
+C:\Users\HP\source\repos\LicensePlate\bin\Debug\net6.0\LicensePlate.deps.json
+C:\Users\HP\source\repos\LicensePlate\bin\Debug\net6.0\LicensePlate.runtimeconfig.json
+C:\Users\HP\source\repos\LicensePlate\bin\Debug\net6.0\LicensePlate.dll
+C:\Users\HP\source\repos\LicensePlate\bin\Debug\net6.0\LicensePlate.pdb
+C:\Users\HP\source\repos\LicensePlate\obj\Debug\net6.0\LicensePlate.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LicensePlate\obj\Debug\net6.0\LicensePlate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LicensePlate\obj\Debug\net6.0\LicensePlate.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LicensePlate\obj\Debug\net6.0\LicensePlate.AssemblyInfo.cs
+C:\Users\HP\source\repos\LicensePlate\obj\Debug\net6.0\LicensePlate.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LicensePlate\obj\Debug\net6.0\LicensePlate.dll
+C:\Users\HP\source\repos\LicensePlate\obj\Debug\net6.0\refint\LicensePlate.dll
+C:\Users\HP\source\repos\LicensePlate\obj\Debug\net6.0\LicensePlate.pdb
+C:\Users\HP\source\repos\LicensePlate\obj\Debug\net6.0\LicensePlate.genruntimeconfig.cache
+C:\Users\HP\source\repos\LicensePlate\obj\Debug\net6.0\ref\LicensePlate.dll

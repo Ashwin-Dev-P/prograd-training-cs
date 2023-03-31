@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\PhotoBook\bin\Debug\net6.0\PhotoBook.exe
+C:\Users\HP\source\repos\PhotoBook\bin\Debug\net6.0\PhotoBook.deps.json
+C:\Users\HP\source\repos\PhotoBook\bin\Debug\net6.0\PhotoBook.runtimeconfig.json
+C:\Users\HP\source\repos\PhotoBook\bin\Debug\net6.0\PhotoBook.dll
+C:\Users\HP\source\repos\PhotoBook\bin\Debug\net6.0\PhotoBook.pdb
+C:\Users\HP\source\repos\PhotoBook\obj\Debug\net6.0\PhotoBook.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PhotoBook\obj\Debug\net6.0\PhotoBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PhotoBook\obj\Debug\net6.0\PhotoBook.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PhotoBook\obj\Debug\net6.0\PhotoBook.AssemblyInfo.cs
+C:\Users\HP\source\repos\PhotoBook\obj\Debug\net6.0\PhotoBook.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PhotoBook\obj\Debug\net6.0\PhotoBook.dll
+C:\Users\HP\source\repos\PhotoBook\obj\Debug\net6.0\refint\PhotoBook.dll
+C:\Users\HP\source\repos\PhotoBook\obj\Debug\net6.0\PhotoBook.pdb
+C:\Users\HP\source\repos\PhotoBook\obj\Debug\net6.0\PhotoBook.genruntimeconfig.cache
+C:\Users\HP\source\repos\PhotoBook\obj\Debug\net6.0\ref\PhotoBook.dll

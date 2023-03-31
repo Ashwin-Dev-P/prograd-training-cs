@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoBook", "PhotoBook.csproj", "{62FD391C-8B10-4193-AD25-BE9CB6EEA514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoBookTests", "..\PhotoBookTests\PhotoBookTests.csproj", "{CDD1C575-AEB2-4F97-BD17-47B69A18B91D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62FD391C-8B10-4193-AD25-BE9CB6EEA514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FD391C-8B10-4193-AD25-BE9CB6EEA514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FD391C-8B10-4193-AD25-BE9CB6EEA514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FD391C-8B10-4193-AD25-BE9CB6EEA514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD1C575-AEB2-4F97-BD17-47B69A18B91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD1C575-AEB2-4F97-BD17-47B69A18B91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD1C575-AEB2-4F97-BD17-47B69A18B91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD1C575-AEB2-4F97-BD17-47B69A18B91D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F31DD16F-EA0C-46B1-A0EF-E5B1C339CEC4}
+	EndGlobalSection
+EndGlobal

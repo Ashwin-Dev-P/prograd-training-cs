@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\AsyncEventOrganization\bin\Debug\net6.0\AsyncEventOrganization.exe
+C:\Users\HP\source\repos\AsyncEventOrganization\bin\Debug\net6.0\AsyncEventOrganization.deps.json
+C:\Users\HP\source\repos\AsyncEventOrganization\bin\Debug\net6.0\AsyncEventOrganization.runtimeconfig.json
+C:\Users\HP\source\repos\AsyncEventOrganization\bin\Debug\net6.0\AsyncEventOrganization.dll
+C:\Users\HP\source\repos\AsyncEventOrganization\bin\Debug\net6.0\AsyncEventOrganization.pdb
+C:\Users\HP\source\repos\AsyncEventOrganization\obj\Debug\net6.0\AsyncEventOrganization.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\AsyncEventOrganization\obj\Debug\net6.0\AsyncEventOrganization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AsyncEventOrganization\obj\Debug\net6.0\AsyncEventOrganization.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AsyncEventOrganization\obj\Debug\net6.0\AsyncEventOrganization.AssemblyInfo.cs
+C:\Users\HP\source\repos\AsyncEventOrganization\obj\Debug\net6.0\AsyncEventOrganization.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AsyncEventOrganization\obj\Debug\net6.0\AsyncEventOrganization.dll
+C:\Users\HP\source\repos\AsyncEventOrganization\obj\Debug\net6.0\refint\AsyncEventOrganization.dll
+C:\Users\HP\source\repos\AsyncEventOrganization\obj\Debug\net6.0\AsyncEventOrganization.pdb
+C:\Users\HP\source\repos\AsyncEventOrganization\obj\Debug\net6.0\AsyncEventOrganization.genruntimeconfig.cache
+C:\Users\HP\source\repos\AsyncEventOrganization\obj\Debug\net6.0\ref\AsyncEventOrganization.dll
