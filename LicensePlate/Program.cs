@@ -1,5 +1,8 @@
 ﻿namespace LicensePlate
 {
+    /*
+     Time complexity: O(n)
+     */
     internal class Program
     {
         //Method to convert dmvNumber to LicensePlate number

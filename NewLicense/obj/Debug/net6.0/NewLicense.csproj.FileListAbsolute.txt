@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NewLicense\bin\Debug\net6.0\NewLicense.exe
+C:\Users\HP\source\repos\NewLicense\bin\Debug\net6.0\NewLicense.deps.json
+C:\Users\HP\source\repos\NewLicense\bin\Debug\net6.0\NewLicense.runtimeconfig.json
+C:\Users\HP\source\repos\NewLicense\bin\Debug\net6.0\NewLicense.dll
+C:\Users\HP\source\repos\NewLicense\bin\Debug\net6.0\NewLicense.pdb
+C:\Users\HP\source\repos\NewLicense\obj\Debug\net6.0\NewLicense.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewLicense\obj\Debug\net6.0\NewLicense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NewLicense\obj\Debug\net6.0\NewLicense.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NewLicense\obj\Debug\net6.0\NewLicense.AssemblyInfo.cs
+C:\Users\HP\source\repos\NewLicense\obj\Debug\net6.0\NewLicense.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewLicense\obj\Debug\net6.0\NewLicense.dll
+C:\Users\HP\source\repos\NewLicense\obj\Debug\net6.0\refint\NewLicense.dll
+C:\Users\HP\source\repos\NewLicense\obj\Debug\net6.0\NewLicense.pdb
+C:\Users\HP\source\repos\NewLicense\obj\Debug\net6.0\NewLicense.genruntimeconfig.cache
+C:\Users\HP\source\repos\NewLicense\obj\Debug\net6.0\ref\NewLicense.dll
